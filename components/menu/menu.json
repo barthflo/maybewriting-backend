@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_menu_menus",
+  "info": {
+    "name": "menu",
+    "icon": "bars",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "menu_items": {
+      "type": "component",
+      "repeatable": true,
+      "component": "menu.menuitem"
+    }
+  }
+}
