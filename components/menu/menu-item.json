@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_menu_menu_items",
+  "info": {
+    "name": "menu item",
+    "icon": "grip-horizontal",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "path": {
+      "type": "string",
+      "required": false,
+      "unique": true
+    }
+  }
+}

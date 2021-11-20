@@ -7,10 +7,11 @@
   },
   "options": {},
   "attributes": {
-    "menu_items": {
+    "menu_item": {
       "type": "component",
       "repeatable": true,
-      "component": "menu.menuitem"
+      "component": "menu.menu-item",
+      "required": true
     }
   }
 }
